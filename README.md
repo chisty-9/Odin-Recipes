@@ -1,1 +1,1 @@
-# Odin-Recipes
+# This repository demonstrates my knowledge and skills gained from The Odin Project's HTML course. This project applies basic to intermediate HTML techniques, showcasing my ability to structure webpages, create functional links, embed images, and follow best practices in web development. This project reflects my progress and serves as a stepping stone for mastering advanced web development concepts.
